@@ -1,0 +1,44 @@
+{
+    "1539744033738457110": {
+        "guild_id": 1534338913122914436,
+        "channel_id": 1534341019921944737,
+        "message_id": 1539744033738457110,
+        "prize": "3 Los Chicleteiras",
+        "host_id": 1533109227709665423,
+        "photo": "https://cdn.corenexis.com/f/hJwpfnPZsR1.png",
+        "end_time": "2026-08-19T22:43:03.807408+00:00",
+        "entries": [
+            1408495587480834048,
+            1516133988777988259,
+            1533109227709665423,
+            1376902787014594684,
+            1367848730576814143
+        ],
+        "finished": false,
+        "winner_id": null
+    },
+    "1539752968721662064": {
+        "guild_id": 1534338913122914436,
+        "channel_id": 1534341019921944737,
+        "message_id": 1539752968721662064,
+        "prize": "Aquas Dragon",
+        "host_id": 1366932885801537666,
+        "photo": null,
+        "end_time": "2026-08-19T22:48:33.697341+00:00",
+        "entries": [],
+        "finished": false,
+        "winner_id": null
+    },
+    "1540135091022598145": {
+        "guild_id": 1534338913122914436,
+        "channel_id": 1534340963189919965,
+        "message_id": 1540135091022598145,
+        "prize": "aquas buthole",
+        "host_id": 1366932885801537666,
+        "photo": null,
+        "end_time": "2026-08-21T00:46:57.904709+00:00",
+        "entries": [],
+        "finished": false,
+        "winner_id": null
+    }
+}
